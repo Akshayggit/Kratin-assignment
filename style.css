@@ -1,6 +1,4 @@
-/* h1{
-    color: rgb(174, 122, 17);
-} */
+/* commmon css for all */
 .logo img{
     height: 110px;
     width: 110px;
@@ -14,9 +12,6 @@ body{
     background-position: 50% 0;
     background-size: cover;
 }
-/* a, a:hover{
- text-decoration: none;
-} */
 ul li a{
     text-decoration: none;
 }
@@ -51,6 +46,7 @@ ul li a{
 .btn-transparent{
     border: 1px solid #fff;
 }
+/*  ...header... */
 header{
     position: absolute;
     top: 0;
@@ -58,7 +54,6 @@ header{
     z-index: 1;
     width: 100%;
     border-bottom: 1px solid #fff;
-    /* background-color: black; */
 }
 .header-active{
   position: fixed;
@@ -144,13 +139,9 @@ header{
 .header-social ul li a:hover{
    background-color: red;
 }
-
+/* ...first Section .. */
 .banner{
-    /* background-position: 50% 0;
-    background-size: cover;
-    background-repeat: no-repeat; */
     padding: 16em 0 14em 0;
-    /* box-shadow: -5px -5px 30px 5px #146fac 5px 5px 30px 5px #40911e; */
 }
 .banner-content{
     width: 70%;
@@ -252,12 +243,10 @@ header{
     vertical-align: middle;
 }
 .call-number p{
-    /* color: red; */
     font-size: 14px;
     text-transform: uppercase;
 }
 .call-number h3{
-    /* margin: 0; */
     font-weight: 600;
     letter-spacing: 1px;
 }
