@@ -1,5 +1,4 @@
 # Kratin-assignment
-### due to submission within deadline i can't able to complete it but i will update it and try to learn new tech also.
 ### This is the static website created for kratin assessment which helps the senior citizens to be healthy and fit.
 # Screenshots -
 1.
